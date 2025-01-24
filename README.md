@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 
 4. Open the notebook:
     ```bash
-    jupyter notebook K_Mean Clustering.ipynb
+    jupyter notebook K_Mean_Clustering.ipynb
 
 ## Usage
 
